@@ -1,6 +1,6 @@
 {
   "name": "dirmap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Accepts a dir path and returns an object mapping file names to their full path",
   "main": "index.js",
   "scripts": {
