@@ -1,6 +1,6 @@
 # dirmap
 
-```
+``` javascript
 /**
  * Accepts a dir path and returns an object mapping file names to their full
  * path. If dropExtension is true, the file extension is dropped from the
