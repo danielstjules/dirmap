@@ -1,0 +1,25 @@
+{
+  "name": "dirmap",
+  "version": "0.0.1",
+  "description": "Accepts a dir path and returns an object mapping file names to their full path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielstjules/dirmap.git"
+  },
+  "keywords": [
+    "dir",
+    "map",
+    "object",
+    "path"
+  ],
+  "author": "Daniel St. Jules <danielst.jules@gmail.com> (http://danielstjules.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielstjules/dirmap/issues"
+  },
+  "homepage": "https://github.com/danielstjules/dirmap#readme"
+}
