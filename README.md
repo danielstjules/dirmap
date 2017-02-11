@@ -12,9 +12,17 @@
  */
 ```
 
+## Installation
+
+```
+npm install dirmap
+```
+
 ## Example
 
 ``` javascript
+var dirmap = require('dirmap');
+
 dirmap('.', true);
 // { '.git': '/Users/danielstjules/dirmap/.git',
 // '.gitignore': '/Users/danielstjules/dirmap/.gitignore',
